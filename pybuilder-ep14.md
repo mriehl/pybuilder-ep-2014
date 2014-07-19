@@ -8,9 +8,9 @@
 
 # Context TL;DR{data-background="res/firmensitz.jpg" data-background-position="center bottom" .opaque}
 
-* I work at a german web shop
-* We love python
-* We're spreading the love in our department
+* I work at ImmobilienScout24, the leading german real estate portal
+* Using python for automation / infrastructure
+* Spreading python knowledge in the department
 
 
 # {data-background="res/enough-to-do.jpg" data-background-position="center top"}
