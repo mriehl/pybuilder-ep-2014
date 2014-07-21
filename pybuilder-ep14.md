@@ -12,6 +12,26 @@
 * Using python for automation / infrastructure
 * Spreading python knowledge in the department
 
+# We're not that small
+```python
+>>> vvc = VVC("***************")
+>>> vvc.connect("mriehl")
+>>> reduce(lambda n, vm: n + 1, vvc.get_all_vms(), 0)
+615
+>>> 
+```
+
+# What do I do again?
+<div
+    data-typescript="demos/script-update"
+    data-timing="demos/timing-update"
+    data-speed=2
+    data-cols=120
+    data-rows=20
+    data-show-controls="false"
+    data-font-size="auto"
+    class="cinescript">
+</div>
 
 # {data-background="res/enough-to-do.jpg" data-background-position="center top"}
 
@@ -84,7 +104,7 @@ def set_properties(project):
     project.get_property('distutils_commands').append('bdist_wheel')
 ```
 
-# Bye bye requirements.txt
+# requirements.txt built-in
 ```
 pyb install_[runtime|build]dependencies
 ```
