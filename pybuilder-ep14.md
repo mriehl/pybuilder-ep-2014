@@ -6,22 +6,23 @@
 <small>July 25th, 2014</small>
 </div>
 
-# Context TL;DR{data-background="res/firmensitz.jpg" data-background-position="center bottom" .opaque}
+# I'm max
 
-* I work at ImmobilienScout24, the leading german real estate portal
-* Using python for automation / infrastructure
-* Spreading python knowledge in the department
+github.com/mriehl
 
-# We're not that small
-```python
->>> vvc = VVC("***************")
->>> vvc.connect("mriehl")
->>> reduce(lambda n, vm: n + 1, vvc.get_all_vms(), 0)
-615
->>> 
-```
+max@riehl.io
 
-# What do I do again?
+<img src="res/Germany.png"/>
+<img src="res/France.png"/>
+<img src="res/England.png"/>
+
+# Where I work {data-background="res/firmensitz.jpg" data-background-position="center bottom" .opaque}
+
+ImmobilienScout24 is the leading german real estate portal
+
+Using python for automation / infrastructure
+
+# What I do
 <div
     data-typescript="demos/script-update"
     data-timing="demos/timing-update"
@@ -33,16 +34,24 @@
     class="cinescript">
 </div>
 
+# We're not that small
+```python
+>>> vvc = VVC("***************")
+>>> vvc.connect("mriehl")
+>>> reduce(lambda n, vm: n + 1, vvc.get_all_vms(), 0)
+615
+>>> 
+```
+
 # {data-background="res/enough-to-do.jpg" data-background-position="center top"}
 
 
 # Sneak peek
-
 <div
     data-typescript="demos/script-yadtshell"
     data-timing="demos/timing-yadtshell"
     data-speed=2
-    data-cols=120
+    data-cols=135
     data-rows=20
     data-show-controls="false"
     data-font-size="auto"
