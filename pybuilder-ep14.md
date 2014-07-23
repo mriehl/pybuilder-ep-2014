@@ -43,7 +43,7 @@ Using python for automation / infrastructure
 >>> 
 ```
 
-# {data-background="res/enough-to-do.jpg" data-background-position="center top"}
+# {data-background="res/ecosystem.png" data-background-position="center center" data-background-size="65%"}
 
 
 # Sneak peek
