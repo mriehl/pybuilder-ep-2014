@@ -65,7 +65,7 @@ Small logic building blocks
 pyb run_unit_tests analyze
 ```
 
-# Make it just work™{data-background="res/tools.jpg" .whitetext}
+# Make it just work™{data-background="res/tools.jpg" data-background-size="75%" .whitetext}
 
 # Make it just work™
 ```bash
