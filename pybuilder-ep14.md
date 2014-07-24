@@ -93,7 +93,7 @@ def set_properties(project):
 * pytddmon
 * ... and many more!
 
-<div style="bottom: 0; text-align: left; opacity: 0.1">Image credit: Aled17</div>
+<!-- Image credit: Aled17 -->
 
 # Key-value based configuration
 
