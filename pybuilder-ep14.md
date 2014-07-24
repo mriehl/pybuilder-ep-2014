@@ -71,7 +71,7 @@ pyb run_unit_tests analyze
 ```bash
 pyb
 ```
-and in `build.py`:
+<small>and in `build.py`:</small>
 ```python
 url = 'https://github.com/yadt/yadtshell'
 version = '1.8.5'
