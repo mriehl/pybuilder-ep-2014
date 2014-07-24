@@ -34,7 +34,7 @@ Using python for automation / infrastructure
     class="cinescript">
 </div>
 
-# We're not that small
+# We're not that small {data-background="res/roller-coaster.jpg" .opaque}
 ```python
 >>> vvc = VVC("***************")
 >>> vvc.connect("mriehl")
