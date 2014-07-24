@@ -14,7 +14,7 @@ max@riehl.io
 
 <img src="res/Germany.png"/>
 <img src="res/France.png"/>
-<img src="res/England.png"/>
+<img src="res/gb.png"/>
 
 # Where I work {data-background="res/firmensitz.jpg" data-background-position="center bottom" .opaque}
 
