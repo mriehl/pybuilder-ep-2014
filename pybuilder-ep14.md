@@ -84,7 +84,7 @@ def set_properties(project):
     project.depends_on('hostexpand')
 ```
 
-# Batteries included: plugins{data-background="res/batteries.png" .whitetext}
+# Batteries included: plugins{data-background="res/lightsaber.jpg" data-background-size="100%" data-background-position="center center" .whitetext}
 * install_dependencies
 * flake8/frosted/pylint
 * unittest
