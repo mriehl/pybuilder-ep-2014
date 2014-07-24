@@ -40,7 +40,7 @@ Using python for automation / infrastructure
 >>> vvc.connect("mriehl")
 >>> reduce(lambda n, vm: n + 1, vvc.get_all_vms(), 0)
 615
->>> 
+>>> # this is one of our datacenters
 ```
 
 # {data-background="res/ecosystem.png" data-background-position="center center" data-background-size="65%"}
